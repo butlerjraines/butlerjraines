@@ -13,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 | --- | --- |
 | [Openly Sober](https://openlysober.com) | List all new or modified files |
 | [Ambition](https://ambition.com) | Show file differences that haven't been staged |
+| [Bitter Southerner](https://bittersoutherner.com) | Show file differences that haven't been staged |
