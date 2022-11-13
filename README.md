@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 | Project | Description |
 | --- | --- |
 | [Openly Sober](https://openlysober.com) | List all new or modified files |
-| Ambition | Show file differences that haven't been staged |
+| [Ambition](https://ambition.com) | Show file differences that haven't been staged |
